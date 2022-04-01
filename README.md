@@ -12,7 +12,6 @@ ESX AI Ambulance-Job is an plugin for ESX with features:
 
 ## Requirements
 
-* Auto mode
    - No requirements
 
 
