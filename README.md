@@ -1,4 +1,5 @@
 # esx_AI-Ambulance-Job
+# Created by DJultra14
 
 ESX AI Ambulance-Job is an plugin for ESX with features:
 
@@ -21,7 +22,7 @@ ESX AI Ambulance-Job is an plugin for ESX with features:
 ## Download & Installation
 
 ### Manually
-- Download https://github.com/ESX-Org/esx_ambulancejob/archive/master.zip
+- Download https://github.com/DJultra14/ESX-AI-Ambulance-job/archive/master.zip
 - Put it in the `[esx]` directory
 
 ## Installation
